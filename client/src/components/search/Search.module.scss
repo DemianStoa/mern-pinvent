@@ -3,6 +3,7 @@
   position: relative;
   flex: 1;
 
+
   .icon {
     position: absolute;
     top: 50%;
@@ -18,8 +19,8 @@
     padding-left: 3rem;
     margin: 1rem auto;
     width: 100%;
-    border: 1px solid #777;
-    border-radius: 3px;
+    border: 1px solid #000;
+    border-radius: .5rem;
     outline: none;
   }
 }
